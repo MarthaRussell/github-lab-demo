@@ -1,4 +1,3 @@
-```yaml
 name: Run Python Script
 
 # When to run the workflow
@@ -24,4 +23,3 @@ jobs:
       # Step 3: Run the Python script
       - name: Run hello.py
         run: python hello.py
-        
